@@ -1,0 +1,23 @@
+body{margin-left: auto;
+	margin-right: auto;
+	background-image: url(http://i683.photobucket.com/albums/vv198/Luvzkitties/faded-canvas-blog-bg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+h4,p{font-weight: bold;}
+
+
+	
+h1{font-size: 50px;
+text-align: center;
+font-family: 'Lobster', cursive;
+}
+
+h3{font-size:20px;}
+.my-intro {font-size: 14px;
+	color: #FF336E;
+border-style: dashed;
+border-color: black;
+border-radius: 10px;
+}
+.social {color: black;}
